@@ -21,5 +21,5 @@ These are the proxies that one can access the website
 6. [India Proxy 6](https://sitenable.info/proxify.php?proxy=c2l0ZW5hYmxlLmluZm8=&site=aHR0cDovL3h2aWRlb3MuY29t)
 7. [India Proxy 7](https://sitenable.co/proxify.php?proxy=c2l0ZW5hYmxlLmNv&site=aHR0cDovL3h2aWRlb3MuY29t)
 8. [India Proxy 8](https://sitenable.ch/proxify.php?proxy=c2l0ZW5hYmxlLmNo&site=aHR0cDovL3h2aWRlb3MuY29t)
-9. [Indai Proxy 9](https://freeproxy.io/proxify.php?proxy=ZnJlZXByb3h5Lmlv&site=aHR0cDovL3h2aWRlb3MuY29t)
+9. [India Proxy 9](https://freeproxy.io/proxify.php?proxy=ZnJlZXByb3h5Lmlv&site=aHR0cDovL3h2aWRlb3MuY29t)
 
